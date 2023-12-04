@@ -77,6 +77,8 @@ namespace ConsoleApp3
 
         static void Main(string[] args)
         {
+            //Github Full
+            
            Marine marine = new Marine();
            
            Firebet firebet = new Firebet();
